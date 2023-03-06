@@ -1,0 +1,55 @@
+.prod_title {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 85px;
+  color: #07484a;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.prod_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 430.75px;
+  height: 585px;
+  background: #caf3e5;
+  border-radius: 16px;
+}
+
+.headline {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  color: #70908b;
+}
+.sub_headline {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #70908b;
+}
+.price {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #70908b;
+}
+.prod_img {
+  width: 210px !important;
+  height: 270px !important;
+}
+.prod_img_outer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
